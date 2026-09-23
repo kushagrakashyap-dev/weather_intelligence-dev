@@ -1,0 +1,6 @@
+{
+  "name": "Aura Weather Intelligence",
+  "description": "Precision weather intelligence dashboard powered by Open-Meteo with current conditions, 7-day forecast, hourly trends, and smart activity planning.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
